@@ -18,6 +18,7 @@ We have tested on:
 - PyTorch 2.0.1
 - 64-bit Python 3.8
 
+Our code is built on the [diffusers](https://github.com/huggingface/diffusers/) version of Stable Diffusion v1-5.
 All dependencies for defining the environment are provided in `environment/Foodfusion_env.yaml`.
 We recommend running this repository using [Anaconda](https://docs.anaconda.com/anaconda/install/):
 ```bash
