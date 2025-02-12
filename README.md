@@ -1,4 +1,4 @@
-# PStyle-3D - Official PyTorch Implementation
+# Foodfusion - Official PyTorch Implementation
 
 <img src="doc_images/Framework2_1.png" width="96%" height="96%">
 
