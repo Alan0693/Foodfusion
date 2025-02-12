@@ -14,8 +14,8 @@ Chaohua Shi, Xuan Wang, Si Shi, Xule Wang, [Mingrui Zhu](https://scholar.google.
 **Dependencies:**
 
 We have tested on:
-- CUDA 11.3
-- PyTorch 1.11.0
+- CUDA 11.7
+- PyTorch 2.0.1
 - 64-bit Python 3.8
 
 All dependencies for defining the environment are provided in `environment/Foodfusion_env.yaml`.
