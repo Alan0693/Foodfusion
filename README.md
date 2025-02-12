@@ -21,5 +21,8 @@ We have tested on:
 All dependencies for defining the environment are provided in `environment/Foodfusion_env.yaml`.
 We recommend running this repository using [Anaconda](https://docs.anaconda.com/anaconda/install/):
 ```bash
-conda env create -f ./environment/Foodfusion_env.yaml
+conda create --name Foodfusion python=3.8
+conda activate Foodfusion
+pip install -r requirements.txt
+
 ```
